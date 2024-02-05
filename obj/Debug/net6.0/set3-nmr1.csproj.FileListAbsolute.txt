@@ -1,0 +1,15 @@
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-nmr1\obj\Debug\net6.0\set3-nmr1.csproj.AssemblyReference.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-nmr1\obj\Debug\net6.0\set3-nmr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-nmr1\obj\Debug\net6.0\set3-nmr1.AssemblyInfoInputs.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-nmr1\obj\Debug\net6.0\set3-nmr1.AssemblyInfo.cs
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-nmr1\obj\Debug\net6.0\set3-nmr1.csproj.CoreCompileInputs.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-nmr1\bin\Debug\net6.0\set3-nmr1.exe
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-nmr1\bin\Debug\net6.0\set3-nmr1.deps.json
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-nmr1\bin\Debug\net6.0\set3-nmr1.runtimeconfig.json
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-nmr1\bin\Debug\net6.0\set3-nmr1.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-nmr1\bin\Debug\net6.0\set3-nmr1.pdb
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-nmr1\obj\Debug\net6.0\set3-nmr1.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-nmr1\obj\Debug\net6.0\refint\set3-nmr1.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-nmr1\obj\Debug\net6.0\set3-nmr1.pdb
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-nmr1\obj\Debug\net6.0\set3-nmr1.genruntimeconfig.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-nmr1\obj\Debug\net6.0\ref\set3-nmr1.dll
